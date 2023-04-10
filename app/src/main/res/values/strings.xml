@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">DriverAssignments</string>
+  <string name="dialog_destination_title">Your Destination</string>
+  <string name="dialog_error_title">Error</string>
+  <string name="dialog_destination_ok">OK</string>
+  <string name="dialog_default_message">Currently calculating your route.</string>
+  <string name="card_expand_label">Show more</string>
+  <string name="card_collapse_label">Show less</string>
+</resources>
