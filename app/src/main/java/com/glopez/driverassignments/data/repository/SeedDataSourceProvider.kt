@@ -11,7 +11,6 @@ import java.io.IOException
 import java.text.ParseException
 import javax.inject.Inject
 
-// TODO: consider renaming
 class SeedDataSourceProvider @Inject constructor(private val context: Context) : SeedDataSource {
     override fun parseSeedData(): SeedDataModel? {
         val gson = GsonBuilder().create()
